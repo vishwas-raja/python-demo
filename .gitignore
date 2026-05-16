@@ -3,3 +3,16 @@ venv/
 __pycache__/
 *.pyc
 .env
+
+# SSH keys / secrets
+github-actions-key
+github-actions-key.pub
+*.pem
+*.key
+
+# secrets
+github-actions-key
+github-actions-key.pub
+*.pem
+*.key
+.env
